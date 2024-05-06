@@ -1,0 +1,25 @@
+{
+  "name": "rbl-devacmp-js-footer",
+  "version": "0.1.0",
+  "description": "This module aloows for a dynamic fotter to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupi014/rbl-devacmp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "rupi014 <rubens.bali@gmail.com> (https://www.npmjs.com/~rupi014)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupi014/rbl-devacmp-js-footer/issues"
+  },
+  "homepage": "https://github.com/rupi014/rbl-devacmp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
