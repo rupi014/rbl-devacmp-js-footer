@@ -5,7 +5,7 @@
 Install with the command:
 
 ```
-npm install --save rbl-devcamp-js-footer
+npm i rbl-devacmp-js-footer-1
 ```
 
 Add to a JavaScript Project with the following code:
